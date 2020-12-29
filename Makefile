@@ -6,7 +6,7 @@ IMAGE_NAME ?= sidecar-injector
 
 # Github host to use for checking the source tree;
 # Override this variable ue with your own value if you're working on forked repo.
-GIT_HOST ?= github.com/morvencao
+GIT_HOST ?= github.com/ozhankaraman
 
 PWD := $(shell pwd)
 BASE_DIR := $(shell basename $(PWD))
