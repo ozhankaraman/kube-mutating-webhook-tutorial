@@ -13,3 +13,5 @@
 vendor/*
 
 build/_output
+
+.go
